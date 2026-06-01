@@ -10,7 +10,7 @@ namespace LessonGH
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine();
         }
     }
 }
